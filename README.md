@@ -1,7 +1,9 @@
 
 # Projet Personnel - Aritficial Intelligence based Image Processing (AIIP)
 Travail réalisé par Delages Julien, Lahmar Fedi
+
 Etudiants en ING3 IA - Groupe B à CY Tech
+
 Novembre 2022
 # Analyse de rétines et applications en Biométrie
 
